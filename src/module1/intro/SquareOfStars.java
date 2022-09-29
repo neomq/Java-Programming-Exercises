@@ -1,5 +1,3 @@
-package module1.intro;
-
 /**
  * Print a square of 7 stars like this one:
  *
@@ -12,6 +10,8 @@ package module1.intro;
  *  * * * * * * *
  *
  */
+
+package module1.intro;
 
 public class SquareOfStars {
     public static void main(String[] args) {

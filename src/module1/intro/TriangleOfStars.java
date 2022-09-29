@@ -1,5 +1,3 @@
-package module1.intro;
-
 /**
  * Create a program, which prints a triangle of stars.:
  * Print one asterisk symbol (*) for the first row, two asterisk symbols for the second row and so on.
@@ -11,6 +9,8 @@ package module1.intro;
  *  *****
  *
  */
+
+package module1.intro;
 
 public class TriangleOfStars {
     public static void main(String[] args) {
